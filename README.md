@@ -1,3 +1,5 @@
+![](docs/img.png)
+
 # Periodogram
 Simple and tested periodogram normalizations for astronomical time-series
 
@@ -14,3 +16,5 @@ from periodogram import amplitude_spectrum, psd, power_spectrum
 
 frequency, amplitude = amplitude_spectrum(time, flux)
 ```
+
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3629933.svg)](https://doi.org/10.5281/zenodo.3629933) -->

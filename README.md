@@ -1,4 +1,5 @@
-![](docs/img.png)
+<!-- ![](docs/img.png) -->
+<img src="https://raw.githubusercontent.com/danhey/periodogram/main/docs/img.png"  width="100%">
 
 # Periodogram
 Simple and tested periodogram normalizations for astronomical time-series

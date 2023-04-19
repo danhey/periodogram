@@ -1,0 +1,17 @@
+/src/*/version.py
+.ipynb_checkpoints
+*.pyc
+__pycache__
+*.egg-info
+_skbuild
+*.so
+.mypy_cache
+.tox
+.nox
+.coverage
+.coverage*
+dist
+.DS_STORE
+.vscode
+.pytest_cache
+testing.ipynb

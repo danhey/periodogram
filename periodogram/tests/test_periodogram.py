@@ -1,4 +1,4 @@
-from ..periodogram import amplitude_spectrum, psd, power_spectrum
+from ..normalization import amplitude_spectrum, psd, power_spectrum
 
 import numpy as np
 from astropy.timeseries import LombScargle
